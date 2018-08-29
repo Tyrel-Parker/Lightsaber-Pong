@@ -5,9 +5,9 @@ https://www.awesomeincu.com/tutorials/unity-pong/ By Will Oldham. Updates by Nic
 Instructions for download and Installation:
 
 Download the zip file from GitHub.
-Extract the zip file.
-Run Unity.
+Extract the zip file to your chosen folder.
+Run unity.
 Click Open.
-Highlight and click "Select folder" for location you unzipped the zip file to.
-Once Unity has loaded the project press "Ctrl + B".
+Highlight the previously chosen folder and click "select folder".
+Once Unity has finished loading the project press "Ctrl+B".
 Enjoy.
